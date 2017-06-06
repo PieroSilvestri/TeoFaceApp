@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{752BBFCD-BBE8-4CCE-B6AE-38F5ED645BE1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MainActivity.cs" Line="26" Column="4" />
+      <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="RegistrationActivity.cs" Line="26" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TeoFaceApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5_v2" AndroidDesignerPreferredTheme="Theme.Black.NoTitleBar" />
+  <MultiItemStartupConfigurations />
+</Properties>
