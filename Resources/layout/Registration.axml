@@ -12,13 +12,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:gravity="center"
-        android:layout_marginTop="80dp" />
+        android:layout_marginTop="29.0dp" />
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1"
-        android:layout_marginTop="40dp">
+        android:layout_marginTop="20dp">
         <TextView
             android:text="Name"
             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -39,7 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1"
-        android:layout_marginTop="40dp">
+        android:layout_marginTop="20dp">
         <TextView
             android:text="Surname"
             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -60,7 +60,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1"
-        android:layout_marginTop="40dp">
+        android:layout_marginTop="20dp">
         <TextView
             android:text="Email"
             android:textAppearance="?android:attr/textAppearanceLarge"
@@ -77,13 +77,24 @@
             android:layout_marginLeft="19.5dp"
             android:layout_marginRight="10.0dp" />
     </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imageViewMia" />
+    </LinearLayout>
     <Button
         android:text="Done"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnDone"
-        android:layout_marginTop="100dp"
-        android:layout_marginBottom="33.5dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp" />
 </LinearLayout>

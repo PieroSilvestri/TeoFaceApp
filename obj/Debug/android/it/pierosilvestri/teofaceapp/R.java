@@ -1068,6 +1068,7 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
+        public static final int image_picker=0x7f020057;
     }
     public static final class id {
         public static final int action_bar=0x7f09001c;
@@ -1084,7 +1085,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
-        public static final int btnDone=0x7f090045;
+        public static final int btnDone=0x7f090047;
         public static final int btnGet=0x7f09003d;
         public static final int btnLogin=0x7f09003e;
         public static final int btnRegistration=0x7f09003f;
@@ -1106,7 +1107,9 @@ containing a value of this type.
         public static final int icon=0x7f09002a;
         public static final int ifRoom=0x7f090011;
         public static final int image=0x7f090027;
+        public static final int imageViewMia=0x7f090046;
         public static final int linearLayout1=0x7f090040;
+        public static final int linearLayout2=0x7f090045;
         public static final int listMode=0x7f090006;
         public static final int list_item=0x7f090029;
         public static final int middle=0x7f090018;

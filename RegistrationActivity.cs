@@ -26,6 +26,7 @@ namespace TeoFaceApp
 			Button btnDone = FindViewById<Button>(Resource.Id.btnDone);
 			btnDone.Click += BtnDone_Click;
 
+			//ImageButton img1 = FindViewById<ImageButton>(Resource.Id.
 		}
 
 		void BtnDone_Click(object sender, EventArgs e)
@@ -36,7 +37,7 @@ namespace TeoFaceApp
 
 			if (name.Text == "" || surname.Text == "" || email.Text == "")
 			{
-				Toast.MakeText(this, "ciao", ToastLength.Short).Show();
+				Toast.MakeText(this, "Insert all the fields.", ToastLength.Short).Show();
 			}
 		}
 	}

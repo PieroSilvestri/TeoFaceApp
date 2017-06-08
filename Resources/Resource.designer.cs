@@ -798,6 +798,9 @@ namespace TeoFaceApp
 			// aapt resource value: 0x7f020056
 			public const int abc_textfield_searchview_right_holo_light = 2130837590;
 			
+			// aapt resource value: 0x7f020057
+			public const int image_picker = 2130837591;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -853,8 +856,8 @@ namespace TeoFaceApp
 			// aapt resource value: 0x7f090016
 			public const int beginning = 2131296278;
 			
-			// aapt resource value: 0x7f090045
-			public const int btnDone = 2131296325;
+			// aapt resource value: 0x7f090047
+			public const int btnDone = 2131296327;
 			
 			// aapt resource value: 0x7f09003d
 			public const int btnGet = 2131296317;
@@ -919,8 +922,14 @@ namespace TeoFaceApp
 			// aapt resource value: 0x7f090027
 			public const int image = 2131296295;
 			
+			// aapt resource value: 0x7f090046
+			public const int imageViewMia = 2131296326;
+			
 			// aapt resource value: 0x7f090040
 			public const int linearLayout1 = 2131296320;
+			
+			// aapt resource value: 0x7f090045
+			public const int linearLayout2 = 2131296325;
 			
 			// aapt resource value: 0x7f090006
 			public const int listMode = 2131296262;

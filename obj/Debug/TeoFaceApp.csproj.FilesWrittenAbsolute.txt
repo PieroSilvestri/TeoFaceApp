@@ -14,3 +14,4 @@
 /Users/pierosilvestri/Projects/TeoFaceApp/bin/Debug/Xamarin.Android.Support.v4.dll
 /Users/pierosilvestri/Projects/TeoFaceApp/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
 /Users/pierosilvestri/Projects/TeoFaceApp/obj/Debug/res/layout/registration.xml
+/Users/pierosilvestri/Projects/TeoFaceApp/obj/Debug/res/drawable/image_picker.jpg
